@@ -1,4 +1,4 @@
-package net.shopin.spring;
+package net.shopin.spring.profile;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

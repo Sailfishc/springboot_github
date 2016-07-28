@@ -1,4 +1,4 @@
-package net.shopin.spring;
+package net.shopin.spring.profile;
 
 /**
  * Created by travis on 2016/7/28.
